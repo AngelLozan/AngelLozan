@@ -6,7 +6,7 @@ Experienced Software Engineer with 2+ years of expertise in web application and 
 
    <p align="left">
       <a href="https://github.com/AngelLozan/AngelLozan/blob/main/README.md">
-         <img src="https://komarev.com/ghpvc/?username=angellozan&label=Profile%20views&color=0e75b6&style=flat" alt="angellozan" /></a> 
+         <img src="https://komarev.com/ghpvc/?username=angellozan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="angellozan" /></a> 
       <a href="https://github.com/AngelLozan?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AngelLozan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/AngelLozan?tab=repositories&sort=stargazers">
