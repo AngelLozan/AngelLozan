@@ -2,7 +2,7 @@
 
 **`Full Stack Developer (Developer/Teacher/Surer)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Experienced Software Engineer with 2+ years of expertise in web application and backend system development. Skilled in Full Stack development, specializing in communications, Web3, security, and legal practices for cryptocurrency users. Thrived in collaborative, outcome-oriented environments during web development boot camps. Proficient in product management, automation, and diverse web frameworks. Eager to join a dynamic team and contribute to client-centric product.
 
    <p align="left">
       <a href="https://github.com/AngelLozan/AngelLozan/blob/main/README.md">
