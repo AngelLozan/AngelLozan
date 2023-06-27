@@ -11,30 +11,11 @@ Experienced Software Engineer with 2+ years of expertise in web application and 
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AngelLozan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/AngelLozan?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AngelLozan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<a href="https://twitter.com/bytebuildcrypto" target="blank"><img src="https://img.shields.io/twitter/follow/bytebuildcrypto?logo=twitter&style=for-the-badge" alt="@bytebuildcrypto" /></a>
    </p>
 
 ---
 
-<h1 align="center">Hi 👋, I'm Scott Lozano</h1>
-<h3 align="center">Full Stack JavaScript and Ruby Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angellozan&label=Profile%20views&color=0e75b6&style=flat" alt="angellozan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angellozan" alt="angellozan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bytebuildcrypto" target="blank"><img src="https://img.shields.io/twitter/follow/bytebuildcrypto?logo=twitter&style=for-the-badge" alt="@bytebuildcrypto" /></a> </p>
-
-- 🔭 I’m currently working on [Personal Profile](TBD)
-
-- 🌱 I’m currently learning **Redux**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AngelLozan](https://github.com/AngelLozan)
-
-- 💬 Ask me about **Ruby, Javascript, Rails and automation**
-
-- 📫 How to reach me **scottloz@protonmail.com**
-
-- ⚡ Fun fact **I love to surf and living on Bitcoin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,3 +31,9 @@ Experienced Software Engineer with 2+ years of expertise in web application and 
 ### 📊 Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angellozan&show_icons=true&locale=en&theme=gruvbox" alt="angellozan" /></p>
+
+#
+
+<details>
+   
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angellozan" alt="angellozan" /></a> </p>
