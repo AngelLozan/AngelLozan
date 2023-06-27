@@ -36,5 +36,5 @@ Experienced Software Engineer with 2+ years of expertise in web application and 
 #
 
 <details>
-   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angellozan" alt="angellozan" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=angellozan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
