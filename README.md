@@ -2,7 +2,18 @@
 
 **`Full Stack Developer (Developer/Teacher/Surer)`**
 
-Experienced Software Engineer with 2+ years of expertise in web application and backend system development. Skilled in Full Stack development, specializing in communications, Web3, security, and legal practices for cryptocurrency users. Thrived in collaborative, outcome-oriented environments during web development boot camps. Proficient in product management, automation, and diverse web frameworks. Eager to join a dynamic team and contribute to client-centric product.
+Experienced Software Engineer with 2+ years of expertise in web application and backend system development. Skilled in Full Stack development, specializing in communications, Web3, security, and legal practices for cryptocurrency users. 
+
+I’ve built several full stack applications, including a full stack polygon app with a creator login on, a clone of Zendesk with Web3 features like a built-in block explorer and wallet api integrations and four chrome extensions to help automate in my current role at Exodus, either for myself or developing for a team. Each project I’ve done helps me solve a problem and produce a desired outcome. For instance:
+- Electron app: Automates reporting processes
+- ZeroFox Chrome extension: Format urls and reload script to show new content
+- Support Explorer extension: Reload content, set alerts for new content, show number of unread, block explorer and coin ticker search. 
+- Polygon Fee tracker: Estimate fees for deployment of NFTs for artist to demonstrate cost to client for deployment. 
+- Solana Fee Tracker: NFT reward program developed for customers. Estimate cost of deployment. 
+- Metaplex candy machine: Cost to deployment and vector for deployment.
+- Crypto Zendesk: Combine multiple projects into Web3 oriented support system that will streamline processes for customers and support agents. 
+
+I have been constantly learning new technologies to find creative solutions to unique issues of automation, social engagement or advertisement. Puppeteer, Node, React, Vue, Next, Ruby, Rails and now Redux.
 
 ### 👀 [My Portfolio](https://angellozan.github.io/myportfolio/)
 
