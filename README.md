@@ -4,6 +4,8 @@
 
 Experienced Software Engineer with 2+ years of expertise in web application and backend system development. Skilled in Full Stack development, specializing in communications, Web3, security, and legal practices for cryptocurrency users. Thrived in collaborative, outcome-oriented environments during web development boot camps. Proficient in product management, automation, and diverse web frameworks. Eager to join a dynamic team and contribute to client-centric product.
 
+### 👀 [My Portfolio](https://angellozan.github.io/myportfolio/)
+
    <p align="left">
       <a href="https://github.com/AngelLozan/AngelLozan/blob/main/README.md">
          <img alt="profile views" title="Who's watching?" src="https://komarev.com/ghpvc/?username=angellozan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="angellozan" /></a> 
