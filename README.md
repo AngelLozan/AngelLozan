@@ -1,6 +1,6 @@
 # 🏄 Scott Lozano
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8B+I'm+Scott;I'm+a+Full-stack+Ruby+and+JS+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+thanks+for+visiting+%F0%9F%91%8B+;I'm+a+Full-stack+Ruby+and+JS+Dev;Have+a+look+around+%F0%9F%91%80+;Let+me+know+your+questions!" alt="Typing SVG" /></a>
 
 Experienced Software Engineer with 2+ years of expertise in web application and backend system development. Skilled in Full Stack development, specializing in communications, Web3, security, and legal practices for cryptocurrency users. 
 
