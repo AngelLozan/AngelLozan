@@ -49,5 +49,5 @@ I have been constantly learning new technologies to find creative solutions to u
 #
 
 <details>
-[![trophy](https://github-profile-trophy.vercel.app/?username=angellozan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=angellozan&theme=onedark)]
 </details>
