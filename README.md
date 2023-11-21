@@ -15,7 +15,7 @@ I’ve built several full stack applications, including a full stack polygon app
 
 I have been constantly learning new technologies to find creative solutions to unique issues of automation, social engagement or advertisement. Puppeteer, Node, React, Vue, Next, Ruby, Rails and now Redux.
 
-### 👀 [My Portfolio](https://angellozan.github.io/myportfolio/)
+### 👀 [My Portfolio](https://scottech.software/)
 
    <p align="left">
       <a href="https://github.com/AngelLozan/AngelLozan/blob/main/README.md">
