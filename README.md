@@ -11,7 +11,9 @@ I’ve built several full stack applications, including a full stack polygon app
 - Polygon Fee tracker: Estimate fees for deployment of NFTs for artist to demonstrate cost to client for deployment. 
 - Solana Fee Tracker: NFT reward program developed for customers. Estimate cost of deployment. 
 - Metaplex candy machine: Cost to deployment and vector for deployment.
-- Crypto Zendesk: Combine multiple projects into Web3 oriented support system that will streamline processes for customers and support agents. 
+- Crypto Zendesk: Combine multiple projects into Web3 oriented support system that will streamline processes for customers and support agents.
+- Web3 Security App: Manage processes, implement miniature bug-bounty and improve reach and scope of security program while integrating mutliple partner APIs.
+- E-commerce Art App: Help artists sustainably manage all their original work sales, including NFTs, integrating crypto-payment, Stripe and Paypal.
 
 I have been constantly learning new technologies to find creative solutions to unique issues of automation, social engagement or advertisement. Puppeteer, Node, React, Vue, Next, Ruby, Rails and now Redux.
 
