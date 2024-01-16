@@ -48,6 +48,13 @@ I have been constantly learning new technologies to find creative solutions to u
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angellozan&show_icons=true&locale=en&theme=gruvbox" alt="angellozan" /></p>
 
+## Languages
+
+<p align="left">
+  <img src="https://github-readme-stats-bear.vercel.app/api/top-langs/?username=AngelLozan&hide_title=true&theme=dark&langs_count=10&layout=compact" alt="AngelLozan-languages" />
+</p>
+
+
 #
 
 <details>
