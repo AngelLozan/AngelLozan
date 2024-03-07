@@ -15,7 +15,7 @@ I’ve built several full stack applications, including a full stack polygon app
 - Web3 Security App: Manage processes, implement miniature bug-bounty and improve reach and scope of security program while integrating mutliple partner APIs.
 - E-commerce Art App: Help artists sustainably manage all their original work sales, including NFTs, integrating crypto-payment, Stripe and Paypal.
 
-I have been constantly learning new technologies to find creative solutions to unique issues of automation, social engagement or advertisement. Puppeteer, Node, React, Vue, Next, Ruby, Rails and now Redux.
+I have been constantly learning new technologies to find creative solutions to unique issues of automation, social engagement or advertisement. Puppeteer, Node, React, Vue, Next, Ruby, Rails and Redux. I'm learning GoLang at the moment.
 
 ### 👀 [My Portfolio](https://scottech.software/)
 
