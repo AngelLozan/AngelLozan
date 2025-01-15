@@ -8,6 +8,8 @@ Who I've coded software with:
 
 <a href="https://www.emma-sleep.com/">
          <img alt="Emma" title="Emma Sleep" src="https://www.emma-sleep.com/cdn/shop/files/emma-logo.svg?height=24&v=1732092192&width=136" alt="angellozan" /> Emma Sleep </a>
+
+<br>
          
 
 I’ve built and maintained multiple full stack applications, microservices and SaaS platforms in a variety of languages. From GoLang microservices to support an ecommerce behemoth to a full stack polygon Dapp, a Java SaaS platform, a Ruby on Rails clone of Zendesk with Web3 features like a built-in block explorer and wallet api integrations and four chrome extensions to help automate in my current role at Exodus. Each project I’ve done helps me solve a problem and produce a desired outcome for the teams I'm a part of. For instance:
