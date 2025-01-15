@@ -2,7 +2,12 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+thanks+for+visiting+%F0%9F%91%8B+;I'm+a+Full-stack+Ruby+and+JS+Dev;Have+a+look+around+%F0%9F%91%80+;Let+me+know+your+questions!" alt="Typing SVG" /></a>
 
-Experienced Software Engineer with multiple years of expertise in web application and backend system development. Skilled in Full Stack development. Constantly building. Other areas of expertise: Communications, Web3, and Security. 
+Experienced Software Engineer with multiple years of expertise in web application and backend system development. Skilled in Full Stack development. Constantly building. Other areas of expertise: Communications, Web3, and Security.
+
+Who I've coded software with:
+
+<a href="[https://github.com/AngelLozan/AngelLozan/blob/main/README.md](https://www.emma-sleep.com/)">
+         <img alt="Emma" title="Emma Sleep" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAgBAMAAAD+hXU2AAAAIVBMVEX/igD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igBdIdOKAAAAC3RSTlMBMXK70/2mF1DojeryD10AAADcSURBVHgBZZGlQgRAFEUPTsO14FrwjGtjdy9W8D4JKzgZWy34fzJvXc64PMegcVqhI0eKexlvNxhNShGsB2rDShMDBiTtTk3b7J8kJdo47wxL0CFt1eO5UghmpO606kP7GCBLpfRJlhbtOrL85X00JS9Q4/CcQ1hz8JAAqt/rkQ6oWfaaak61iqksk4K399K2nUw4ybj9hA4ZofqUlrJleebTFrgKSxvOrO/huRgddiWeVZqaDEUR5UX7dFiciUyWGpelTAYXp8N+Jj+7L/mZ33KlVYHGk/D7UT38AySdUon6hJIdAAAAAElFTkSuQmCC" alt="angellozan" /> Emma Sleep </a>
 
 I’ve built and maintained multiple full stack applications, microservices and SaaS platforms in a variety of languages. From GoLang microservices to support an ecommerce behemoth to a full stack polygon Dapp, a Java SaaS platform, a Ruby on Rails clone of Zendesk with Web3 features like a built-in block explorer and wallet api integrations and four chrome extensions to help automate in my current role at Exodus. Each project I’ve done helps me solve a problem and produce a desired outcome for the teams I'm a part of. For instance:
 - An Electron app: Automates reporting processes for a security team
