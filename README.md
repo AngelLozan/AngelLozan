@@ -17,7 +17,7 @@ Who I've coded software with:
 <br>
 <br>
 <a href="https://artsvp.com/" >
-<img alt="Artsvp" title="Artsvp" src="https://artsvp.com/assets/logos/artsvp/light-4441e4ca3cd30edc2cec236c40604bc3047d82e51f8c1930db82d1d7a40a0ac0.svg" alt="Artsvp" width="100"  />
+<img alt="Artsvp" title="Artsvp" src="https://artsvp.com/assets/logos/artsvp/light-4441e4ca3cd30edc2cec236c40604bc3047d82e51f8c1930db82d1d7a40a0ac0.svg" alt="Artsvp" width="150"  />
 </a>
 <br>
 <br>
