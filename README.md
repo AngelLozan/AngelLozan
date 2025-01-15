@@ -7,7 +7,8 @@ Experienced Software Engineer with multiple years of expertise in web applicatio
 Who I've coded software with:
 
 <a href="https://www.emma-sleep.com/">
-         <img alt="Emma" title="Emma Sleep" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAgBAMAAAD+hXU2AAAAIVBMVEX/igD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igBdIdOKAAAAC3RSTlMBMXK70/2mF1DojeryD10AAADcSURBVHgBZZGlQgRAFEUPTsO14FrwjGtjdy9W8D4JKzgZWy34fzJvXc64PMegcVqhI0eKexlvNxhNShGsB2rDShMDBiTtTk3b7J8kJdo47wxL0CFt1eO5UghmpO606kP7GCBLpfRJlhbtOrL85X00JS9Q4/CcQ1hz8JAAqt/rkQ6oWfaaak61iqksk4K399K2nUw4ybj9hA4ZofqUlrJleebTFrgKSxvOrO/huRgddiWeVZqaDEUR5UX7dFiciUyWGpelTAYXp8N+Jj+7L/mZ33KlVYHGk/D7UT38AySdUon6hJIdAAAAAElFTkSuQmCC" alt="angellozan" /> Emma Sleep </a>
+         <img alt="Emma" title="Emma Sleep" src="https://www.emma-sleep.com/cdn/shop/files/emma-logo.svg?height=24&v=1732092192&width=136" alt="angellozan" /> Emma Sleep </a>
+         
 
 I’ve built and maintained multiple full stack applications, microservices and SaaS platforms in a variety of languages. From GoLang microservices to support an ecommerce behemoth to a full stack polygon Dapp, a Java SaaS platform, a Ruby on Rails clone of Zendesk with Web3 features like a built-in block explorer and wallet api integrations and four chrome extensions to help automate in my current role at Exodus. Each project I’ve done helps me solve a problem and produce a desired outcome for the teams I'm a part of. For instance:
 - An Electron app: Automates reporting processes for a security team
