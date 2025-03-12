@@ -12,7 +12,7 @@ Who I've coded software with:
 <br>
 <br>
 <a href="https://exodus.com/" >
-<img alt="Exodus" title="Exodus Movement" src="./EXODUS_logo-colour_LIGHT.png" alt="Exodus" style="width:150px;height:60px;" />
+<img alt="Exodus" title="Exodus Movement" src="./EXODUS_logo-colour_LIGHT.png" alt="Exodus" style="width:150px;height:80px;" />
 </a>
 <br>
 <br>
