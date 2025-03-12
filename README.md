@@ -7,7 +7,7 @@ Experienced Software Engineer with multiple years of expertise in web applicatio
 Who I've coded software with:
 
 <a href="https://www.emma-sleep.com/" >
-<img alt="Emma" title="Emma Sleep" src="https://eu-images.contentstack.com/v3/assets/blt167b24547e5b1906/blt2bbe482a8379e505/620389e29ce2600d8350db05/emma-logo.svg?format=pjpg&auto=webp&quality=80&width=1024&disable=upscale" alt="Emma Sleep" />
+<img alt="Emma" title="Emma Sleep" src="./emma-logo.svg?format=pjpg&auto=webp&quality=80&width=1024&disable=upscale" alt="Emma Sleep" />
 </a>
 <br>
 <br>
