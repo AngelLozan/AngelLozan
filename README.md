@@ -62,6 +62,8 @@ I have been constantly learning new technologies to find creative solutions to u
 
 ### 📊 Stats
 
+<img alt="angellozan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=angellozan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angellozan&show_icons=true&locale=en&theme=gruvbox" alt="angellozan" /></p>
 
 #
