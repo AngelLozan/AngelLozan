@@ -73,6 +73,5 @@ I have been constantly learning new technologies to find creative solutions to u
 
 <img alt="angellozan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=angellozan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
-<p align="center">
-         [![trophy](https://github-profile-trophy.vercel.app/?username=AngelLozan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AngelLozan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
