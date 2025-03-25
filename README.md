@@ -55,15 +55,15 @@ I have been constantly learning new technologies to find creative solutions to u
 
 
 <img src="https://github-readme-stats-bear.vercel.app/api/top-langs/?username=AngelLozan&hide_title=true&theme=dark&langs_count=10&layout=compact" alt="AngelLozan-languages" />
-<img alt="angellozan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=angellozan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=angellozan&show_icons=true&locale=en&theme=gruvbox" alt="angellozan" />
  <br/>
   <b>Note:</b> I am mostly using Ruby and TypeScript these days. Top languages isn't necessarily accurate and only shows what's publicly worked on. (See who I've coded with above).
 <br/>
 <br/>
 
 
+<img alt="angellozan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph username=angellozan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angellozan&show_icons=true&locale=en&theme=gruvbox" alt="angellozan" /></p>
 
 #
 
