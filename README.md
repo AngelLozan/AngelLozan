@@ -42,7 +42,6 @@ I have been constantly learning new technologies to find creative solutions to u
 
 <h3 align="left"> 📲 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bytebuildcrypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bytebuildcrypto" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/angel-lozans/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/angel-lozans/" height="30" width="40" /></a>
 <a href="https://bsky.app/profile/angellozan.live" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Angel on bluesky" height="30" width="40" /></a>
 </p>
