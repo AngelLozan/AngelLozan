@@ -23,7 +23,7 @@ Who I've coded software with:
 <br>
          
 
-I’ve built and maintained multiple full stack applications, microservices and SaaS platforms in a variety of languages. From GoLang microservices to support an ecommerce behemoth to a full stack polygon Dapp, a Java SaaS platform, a Ruby on Rails clone of Zendesk with Web3 features like a built-in block explorer and wallet api integrations and four chrome extensions to help automate and a comprehensive art ticketing platforms. 
+I’ve built and maintained multiple full stack applications, microservices and SaaS platforms in a variety of languages. From GoLang microservices to support an ecommerce behemoth to a full stack polygon Dapp, a Java SaaS platform, a Ruby on Rails clone of Zendesk with Web3 features like a built-in block explorer and wallet api integrations and four chrome extensions to help automate and a comprehensive art ticketing platform. 
 
 I have been constantly learning new technologies to find creative solutions to unique issues of automation, social engagement or advertisement. Puppeteer, Node, React, Vue, Next, Ruby, Rails and Redux. I'm learning GoLang at the moment.
 
