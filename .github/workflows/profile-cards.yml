@@ -44,6 +44,20 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: AngelLozan
 
+      - name: Trophies
+        # The official host is disabled; try community mirrors in order and
+        # keep the last committed card if none respond.
+        run: |
+          query="username=AngelLozan&theme=tokyonight&column=7&margin-w=10&margin-h=10"
+          for host in github-profile-trophy github-profile-repo github-profile-trophy-unserori github-trophy-jagratadeb; do
+            if curl -fsS --max-time 30 "https://$host.vercel.app/?$query" -o /tmp/trophy.svg && grep -q "<svg" /tmp/trophy.svg; then
+              mkdir -p profile && mv /tmp/trophy.svg profile/trophy.svg
+              echo "Trophies from $host"
+              exit 0
+            fi
+          done
+          echo "::warning::No trophy mirror responded; keeping the existing card"
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

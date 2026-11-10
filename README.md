@@ -88,3 +88,7 @@ I have collaborated with world-class engineering teams to build robust web syste
   <img alt="Scott's Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./profile/trophy.svg" alt="GitHub Trophies" /></a>
+</p>
+
