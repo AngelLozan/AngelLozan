@@ -77,17 +77,14 @@ I have collaborated with world-class engineering teams to build robust web syste
 </p>
 
 <p align="center">
-  <a href="https://github.com/angellozan"><img src="https://github-readme-stats.vercel.app/api?username=angellozan&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Scott's Stats" /></a>
-  <a href="https://github.com/angellozan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelLozan&hide_title=true&theme=tokyonight&langs_count=10&layout=compact&hide_border=true" alt="Scott's Top Languages" /></a>
+  <a href="https://github.com/angellozan"><img src="./profile/stats.svg" alt="Scott's Stats" height="180" /></a>
+  <a href="https://github.com/angellozan"><img src="./profile/top-langs.svg" alt="Scott's Top Languages" height="180" /></a>
 </p>
 
 > [!NOTE]
 > I am mostly focused on **Ruby** and **TypeScript** these days. The languages breakdown above only details code pushed to public repositories on GitHub and is not fully representative of my broad scope of experience (such as custom backend microservices and proprietary applications).
 
 <p align="center">
-  <img alt="Scott's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=angellozan&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ff9e64&hide_border=true" width="100%" />
+  <img alt="Scott's Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AngelLozan&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" /></a>
-</p>
