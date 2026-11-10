@@ -5,15 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://scottech.software/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-scottech.software-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/angel-lozans/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Angel_Lozano-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://bsky.app/profile/angellozan.live" target="_blank">
-    <img src="https://img.shields.io/badge/Bluesky-angellozan.live-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
-  </a>
+  <a href="https://scottech.software/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-scottech.software-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio" /></a>
+  <a href="https://linkedin.com/in/angel-lozans/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Angel_Lozano-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://bsky.app/profile/angellozan.live" target="_blank"><img src="https://img.shields.io/badge/Bluesky-angellozan.live-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
 </p>
 
 ---
@@ -28,17 +22,11 @@ I am an experienced **Full-Stack Software Engineer** specializing in full-stack 
 I have collaborated with world-class engineering teams to build robust web systems, scale backend architectures, and implement modern features.
 
 <p align="center">
-  <a href="https://www.emma-sleep.com/" target="_blank">
-    <img alt="Emma Sleep" src="./emma-logo.svg" height="40" style="margin: 0 15px;" />
-  </a>
+  <a href="https://www.emma-sleep.com/" target="_blank"><img alt="Emma Sleep" src="./emma-logo.svg" height="40" style="margin: 0 15px;" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://exodus.com/" target="_blank">
-    <img alt="Exodus Movement" src="./EXODUS_logo-colour_LIGHT.png" height="40" style="margin: 0 15px;" />
-  </a>
+  <a href="https://exodus.com/" target="_blank"><img alt="Exodus Movement" src="./EXODUS_logo-colour_LIGHT.png" height="40" style="margin: 0 15px;" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://artsvp.com/" target="_blank">
-    <img alt="Artsvp" src="./artsvp.svg" height="40" style="margin: 0 15px;" />
-  </a>
+  <a href="https://artsvp.com/" target="_blank"><img alt="Artsvp" src="./artsvp.svg" height="40" style="margin: 0 15px;" /></a>
 </p>
 
 - 🛌 **Emma Sleep** (Global Sleep-Tech E-Commerce Giant)
@@ -85,18 +73,12 @@ I have collaborated with world-class engineering teams to build robust web syste
 </p>
 
 <p align="center">
-  <a href="https://github.com/angellozan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=angellozan&theme=tokyonight&hide_border=true" alt="Scott's Streak Stats" />
-  </a>
+  <a href="https://github.com/angellozan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angellozan&theme=tokyonight&hide_border=true" alt="Scott's Streak Stats" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/angellozan">
-    <img src="https://github-readme-stats.vercel.app/api?username=angellozan&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Scott's Stats" />
-  </a>
-  <a href="https://github.com/angellozan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelLozan&hide_title=true&theme=tokyonight&langs_count=10&layout=compact&hide_border=true" alt="Scott's Top Languages" />
-  </a>
+  <a href="https://github.com/angellozan"><img src="https://github-readme-stats.vercel.app/api?username=angellozan&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Scott's Stats" /></a>
+  <a href="https://github.com/angellozan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelLozan&hide_title=true&theme=tokyonight&langs_count=10&layout=compact&hide_border=true" alt="Scott's Top Languages" /></a>
 </p>
 
 > [!NOTE]
@@ -107,7 +89,5 @@ I have collaborated with world-class engineering teams to build robust web syste
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AngelLozan&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AngelLozan&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" /></a>
 </p>
